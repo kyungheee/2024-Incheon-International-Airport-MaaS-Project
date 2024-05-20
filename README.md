@@ -3,7 +3,6 @@
 
 </br>
 
-## 프로젝트 정보
 ![image](https://github.com/kyungheee/2024_Incheon_International_Airport_MaaS_Project/assets/148427964/6654959b-ae09-49f5-ba2d-31fb4a4983e3)
 
 </br>
