@@ -3,6 +3,11 @@
 
 </br>
 
+## 프로젝트 정보
+![image](https://github.com/kyungheee/2024_Incheon_International_Airport_MaaS_Project/assets/148427964/6654959b-ae09-49f5-ba2d-31fb4a4983e3)
+
+</br>
+
 ## 팀원 정보 및 업무 분담 내역
 |이름|소속|역할|
 |:--:|:--:|:--:|
@@ -28,8 +33,3 @@
 ## 기술 스택
 - python
 - Figma
-
-</br>
-
-## 프로젝트 정보
-![image](https://github.com/kyungheee/2024_Incheon_International_Airport_MaaS_Project/assets/148427964/6654959b-ae09-49f5-ba2d-31fb4a4983e3)
